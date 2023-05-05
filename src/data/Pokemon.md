@@ -1,0 +1,3 @@
+## Intro
+
+Pokemon Glacier and Aurora is a fan made Pokemon game that focuses on your struggle to survive in a world that has grown distrusting of pokemon. Stratland is a fractured region, broken by a civil war years ago. In its place The Protectorate and The Chain, two nations, rule the north and south of the region. Your brother battled the tyrannical Protector and his Rangers, will you rise to replace him after his untimely death?
