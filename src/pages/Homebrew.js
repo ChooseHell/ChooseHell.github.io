@@ -9,7 +9,7 @@ import Page from '../components/Template/Page';
 const markdown = raw('../data/Homebrew.md');
 
 const Homebrew = () => (
-  <Page markSource={markdown} title="5e Homebrew" sub="I wanna kiss" />
+  <Page markSource={markdown} title="5e Homebrew" sub="Something out of the brew" />
 );
 
 export default Homebrew;
