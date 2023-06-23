@@ -18,7 +18,9 @@ const { PUBLIC_URL } = process.env;
 const WarCatan = () => (
   <div>
     <img src={`${PUBLIC_URL}/images/WarCatanIcon-1.png`} alt="" id="header_image" />
-    <Page markSource={markdown} title="War Catan" sub="Steal Destroy Pillage" />
+    <Page markSource={markdown} title="War Catan" sub="Steal Destroy Pillage">
+      <a href={`${PUBLIC_URL}/PDFs/WarCatan.pdf`} download className="button">Download</a>
+    </Page>
   </div>
 );
 
